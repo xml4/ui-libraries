@@ -3230,7 +3230,7 @@ function library:Loader(options)
     utility.format(options);
 
     utility.defaults(options, {
-        title = "Exodus",
+        title = "$$$",
         description = "Loading...",
         percentage = 50,
         date = "16/01/22",
@@ -4539,10 +4539,10 @@ function library:Load(options)
     utility.format(options)
 
     utility.defaults(options, {
-        title = options.name or "exodus",
+        title = options.name or "$$$",
         theme = "Default",
         overrides = {},
-        folder = "exodus",
+        folder = "$$$",
         extension = "json",
         game = "universal",
         tweenspeed = options.animspeed or 0.1,
