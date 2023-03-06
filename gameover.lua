@@ -105,15 +105,10 @@ local library = {
         string    = {}
     },
     images = {
-        ['gradientp90'] = 'https://www.octohook.xyz/assets/bMTlZ7Zlh6qwfjdBM3tWEU95KYG6AaPt6YxaNRQvQjROim1Q78.png',
-        ['gradientp45'] = 'https://www.octohook.xyz/assets/yBlCpOjuJXSGuBatJoRot5IiBztLDY24mkrdwsraHsYTJvjSnn.png',
-        ['colorhue']    = 'https://www.octohook.xyz/assets/hue2.png',
-        ['colortrans']  = 'https://www.octohook.xyz/assets/I05svPLPJk73c1oLlcXAPd907vcRrUnmTjTzK1zaXjYnFGYSoK.png',
-        ['colorsat1']   = 'https://www.octohook.xyz/assets/b6ce2f465dbe0ca4bf88d45ac4be1362.png',
-        ['colorsat2']   = 'https://www.octohook.xyz/assets/0c51aa9d7f2ede5c635c2f44f66be88f.png',
-        ['arrow_up']    = 'https://www.octohook.xyz/assets/arrow_up.png',
-        ['arrow_down']  = 'https://www.octohook.xyz/assets/arrow_down.png',
-        ['intro']       = 'https://www.octohook.xyz/assets/intro.webm'
+        ['gradientp90'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/gradient90.png';
+        ['gradientp45'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/gradient45.png';
+        ['colorhue'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/lgbtqshit.png';
+        ['colortrans'] = 'https://raw.githubusercontent.com/portallol/luna/main/modules/trans.png';
     }
 }
 
