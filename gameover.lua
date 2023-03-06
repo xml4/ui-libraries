@@ -3302,3 +3302,4 @@ function library:create_settings_tab(menu)
 
     return tab, settings_main
 end
+return library
