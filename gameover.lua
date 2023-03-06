@@ -87,7 +87,7 @@ local library = {
     gamename    = 'developer test build',
     themes      = themes,
     theme       = themes.default,
-    signal      = loadstring(game:HttpGetAsync('https://octohook.xyz/module/SgXCh7v6kQlDp6bCMYdcxNwWPTUzu07s0DMBslI7LiCoaMsit2.signal.lua'))(),
+    signal      = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/xml4/utilities/main/signal.lua'))(),
     stat        = {fps = 0, ping = 0},
     drawings    = {
         active    = {}, 
